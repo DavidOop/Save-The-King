@@ -1,0 +1,19 @@
+﻿  Tile.cpp
+c:\users\pc\downloads\save the king - david wertenteil\ex5\tile.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Stage.cpp
+c:\users\pc\downloads\save the king - david wertenteil\ex5\images.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Players.cpp
+c:\users\pc\downloads\save the king - david wertenteil\ex5\tile.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Menu.cpp
+c:\users\pc\downloads\save the king - david wertenteil\ex5\images.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  InfBar.cpp
+c:\users\pc\downloads\save the king - david wertenteil\ex5\infbar.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Images.cpp
+c:\users\pc\downloads\save the king - david wertenteil\ex5\images.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Dwarf.cpp
+c:\users\pc\downloads\save the king - david wertenteil\ex5\tile.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Controller.cpp
+c:\users\pc\downloads\save the king - david wertenteil\ex5\images.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Board.cpp
+c:\users\pc\downloads\save the king - david wertenteil\ex5\images.h(3): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
